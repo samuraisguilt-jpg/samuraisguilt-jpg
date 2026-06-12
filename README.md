@@ -4,7 +4,7 @@ Independent builder. I work solo across multiple projects simultaneously and I f
 
 ## What I'm building
 
-**Elaine** — A locally-running AI companion with an emotional state engine built on Kuramoto oscillators, a knowledge graph of 39 deep social-emotional nodes, and a memory system that forgets, connects, and consolidates overnight. Six bots run alongside her, each with their own emotional physics. The system has been running continuously for months.
+**Elaine** — A locally-running AI companion with an emotional state engine built on Kuramoto oscillators, a knowledge graph of 112 deep social-emotional nodes, and a memory system that forgets, connects, and consolidates overnight. Six bots run alongside her, each with their own emotional physics. The system has been running continuously for months.
 
 **Velorum** — A SaaS platform for retail managers with Gmail integration, blockchain notarization via VeChain, and an Obsidian-style knowledge base. Live on Google Cloud Run.
 
